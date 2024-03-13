@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../CSS/login.css">
+    <title>Login</title>
+</head>
+<body>
+    
+    <h1>Login</h1>
+
+    <form action="./index.html" name="login">
+        <div>
+            <label for="">Email</label><br>
+            <input type="email" name="email" placeholder="Email" class="campo1" id="">
+        </div>
+
+        <div>
+            <label for="">Senha</label><br>
+            <input type="password" name="senha" placeholder="Senha" class="campo1" id="" required>
+        </div>
+
+        <div>
+            <input type="submit"  onclick="validar_campos_login()"  class="botao" value="ENVIAR" required>
+        </div>
+
+    </form>
+    <script src="../js/valida_login.js"></script>
+
+</body>
+</html>
