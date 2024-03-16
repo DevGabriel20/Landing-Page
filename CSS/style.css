@@ -2,6 +2,14 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
 
+
+*{
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .degrade {
   /* Definindo um degradê de fundo*/
   background-image: linear-gradient(45deg, #00ffff , #2f4538);
@@ -19,7 +27,7 @@ h1 {
   /*Cor e alinhamento do titulo*/
 
   padding-top: -10%;
-  margin-right: -500%;
+  margin-right: 0%;
   color: rgb(253, 203, 67);
   margin-left: -70%;
   font-family: "Raleway", sans-serif;
@@ -73,7 +81,6 @@ ul {
   margin-left: -9%;
   margin-right: -10%;
   padding: 3% 13%;
-  
   margin-bottom: 80px;
 }
 
@@ -90,7 +97,7 @@ img {
 
   color: white;
   font-size: 28px;
-  width: 500px;
+  width: 450px;
   height: 600px;
   margin-left: 150px;
   margin-bottom: 80px;
@@ -153,8 +160,8 @@ img {
 
   width: 890px;
   height: 780px;
-  margin-left: -1%;
-  margin-top: -75%;
+  margin-left: -10px;
+  margin-top: -640px;
 }
 
 .imagem2 {
@@ -162,8 +169,8 @@ img {
 
   width: 890px;
   height: 810px;
-  margin-left: 17%;
-  margin-top: -85%;
+  margin-left: 150px;
+  margin-top: -765px;
 }
 
 /* div img margin-bottom: 750px; */
@@ -174,9 +181,10 @@ img {
 
     text-align: center;
     color: black;
-    background: rgb(216, 71, 71);
+    background: rgb(253, 252, 252);
     width: 100%;
-
+    height: 600px;
+    margin-bottom: 10%;
    
 }
 
@@ -185,7 +193,27 @@ h3 {
     padding-top: 10px;
     font-family: "Montserrat", sans-serif;
     font-size: 28pt;
-    margin-bottom: 400px;
-    
+    margin-bottom: 0px; 
     
 }
+
+.h3_borda{
+  padding-top: 5%;
+  border-bottom: 5px solid #00ffff;
+  width: 110px;
+  margin-left: 610px;
+  
+}
+
+.container_sobre{
+  padding-top: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: justify;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+
+}
+
+
+
