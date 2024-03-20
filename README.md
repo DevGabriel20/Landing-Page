@@ -1,6 +1,6 @@
-#LANDING PAGE
+LANDING PAGE
 
-#THE STORYTELLER
+THE STORYTELLER
 
-Criei essa página sobre o aplicativo "The Storyteller" desenvolvido por minha equipe na disciplina de Programação de App, com o intuito de colocar em prática os conceitos de desenvolvimento de sistemas voltados para a web. Cosnstruí o que seria uma landing page de pré-registro para o aplicativo de leitura e audiobooks.
+Criei essa página sobre o aplicativo "The Storyteller" desenvolvido por minha equipe na disciplina de Programação de App, com o intuito de colocar em prática os conceitos de desenvolvimento de sistemas voltados para a web. Construí o que seria uma landing page de pré-registro para o aplicativo de leitura e audiobooks.
 
