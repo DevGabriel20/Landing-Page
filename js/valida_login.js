@@ -7,14 +7,14 @@ function validar_campos_login(){
 
     if(email.value == ""){
 
-       alert("E-mail não fornecido");
+       alert("Nenhum email identificado");
 
        email.focus();
        
     }
     else if(senha.value == "") {
 
-        alert("Senha não fornecida");
+        alert("Nenhuma senha fornecida");
 
         senha.focus();
     }
