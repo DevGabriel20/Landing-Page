@@ -10,7 +10,7 @@
 
 .degrade {
   /* Definindo um degradê de fundo*/
-  background-image: linear-gradient(45deg, #00ffff, #2f4538);
+  background-image: linear-gradient(45deg,rgb(220, 23, 23), #00ffff, #2f4538);
 }
 
 a {
@@ -187,7 +187,7 @@ h3 {
 
 .container-slider {
   /* Alinhamento e Background do carrossel*/
-  background-image: linear-gradient(45deg, #00ffff, #2f4538);
+  background-image: linear-gradient(45deg,rgb(220, 23, 23), #00ffff, #2f4538);
   display: flex;
   width: 100%;
   min-height: 100vh;
